@@ -1,0 +1,19 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:emiliodangelo.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:emiliodangelo.github.io#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:emiliodangelo.github.io",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "alg": "RS256",
+        "x5c": [
+          "MIICuDCCAaCgAwIBAgIUbFh+rDjdDJ5cvU+sivPipxOLH1wwDQYJKoZIhvcNAQELBQAwFjEUMBIGA1UEAwwLc2VsZi1zaWduZWQwHhcNMjExMDA0MTE1MjI5WhcNMjExMDE0MTE1MjMwWjAWMRQwEgYDVQQDDAtzZWxmLXNpZ25lZDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANJCbSe7Tlv9d+lKm3TLsdGYmZCXFay6BTcTZFP4o6JUo+JI0r1V4cWBvYDakfOEGaymikyFWGNyUET5EoaELSOWbxcOqhwc2W4ASmD4SC0hI38xdgEw4rdLm91yvY1NLEN/x1YX8yNoe+hdd/JYCRExcyiHzNJ2kQgIFuh9LHK1GEfkE1E8I4mX5Fzb+o77SgEx7Ef5fk1EQlVL4aVU8vy7bKoff8COoxkg+yxeFg+6FpRf9zGZVlvV8qkYtc+N/jpW2Iilvf6UOOeTSIAZloONWAFneJ1O9R/00TlkhyVTofh0bSzTJ+vMPNFvHdXfRH54qUf4h6Kps7lG4scSSeECAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAOxRIJ25xrZJTnZBYf3FkHP01z7Ui7ey8ff5T0SeuisIU5DQfVky/X9QO1xsHLdNbnE46Z+qLzIxwPZO/P+/7JF0U21nQeENynfrcc8edbY9tFDV9rtIx8HFLcgwsNFKm16zoLjGdez5vWRO4BONCkr0DcwHS4LWeAxaH/k3tBOxClgaPbbNSLOZGYbYFrSdM07knH8i0kD6ujBRcbMKFZ/q/QC5JzIk87KbR+fWZEfvjPyvROfTS/JTlXQ6Pwr2nXdHSjRZFZonLOaBLvPh0WcjRsw5u/b1AH2NO5SlnbPKT4T34X6CdWfc7fRxVZPd1ftcMKthTa8OClat7ZwqOtA=="
+        ],
+        "kid": "4627a84e62d311598f6e8ea8276aa19149d291136a6be92d4be456d4641bf75b"
+      }
+    }
+  ]
+}
